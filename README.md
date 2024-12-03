@@ -25,8 +25,8 @@ Nexus Library: Welcome to Nexus Library, your ultimate online destination for an
 
 ## Demo:
 
-- **Live Link:** https://nexus-library-ab88f.web.app/
-- **Server Repo:** https://github.com/fokhrul2029/Nexus-Library-Server
+- **Live Link:** https://smart-library-c251f.firebaseapp.com/
+- **Server Repo:** 
 
 ## Clone and Run The Project
 
@@ -35,7 +35,7 @@ Nexus Library: Welcome to Nexus Library, your ultimate online destination for an
 - **step 1:** clone the Repository
 
 ```bash
-git clone https://github.com/fokhrul2029/Nexus-Library-Client.git
+git clone https://github.com/Farehayasmin/Smart-Library-Client.git
 ```
 
 - **step 2:** Install Dependency
